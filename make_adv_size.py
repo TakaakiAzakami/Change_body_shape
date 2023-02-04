@@ -1,7 +1,6 @@
 import xml.etree.ElementTree as ET 
 import time
 import random
-import make_color
 
 tree = ET.parse('ant.xml')
 
