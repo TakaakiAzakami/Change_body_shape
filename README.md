@@ -10,7 +10,7 @@ Smaller part is red.
 
 Bigger part is blue.
 
-<img src="https://user-images.githubusercontent.com/109128805/216778131-9bdbfbb9-b21e-47cd-b101-1c864d978c4f.png" width = "300px" height = "300px">   <img src="https://user-images.githubusercontent.com/109128805/216778132-e4508192-5adb-4965-b39e-671f83ef8e3d.png" width = "300px" height = "300px">
+<img src="https://user-images.githubusercontent.com/109128805/216778131-9bdbfbb9-b21e-47cd-b101-1c864d978c4f.png" width = "200px" height = "200px">   <img src="https://user-images.githubusercontent.com/109128805/216778132-e4508192-5adb-4965-b39e-671f83ef8e3d.png" width = "200px" height = "200px">
 
 | body part | normal ratio| changed ratio| 
 | :---                |     :---:      |     :---:      | 
