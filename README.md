@@ -21,3 +21,7 @@
 | back right thigh    | 1.00    | 1.02      | 
 | back right leg      | 1.00    | 1.01      | 
 | back right foot     | 1.00    | 0.95      | 
+
+Red part is smaller.
+
+Blue part is biger.
