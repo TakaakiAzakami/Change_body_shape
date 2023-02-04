@@ -27,5 +27,4 @@ for geom in root.iter("geom"):
 				size_ratio[name] = set_size(size_epsilon)
 				geom.set("size",str(size_ratio[name]*size_list[name]))
 
-
 tree.write('ant.xml',encoding='UTF-8')
