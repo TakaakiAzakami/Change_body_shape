@@ -22,6 +22,6 @@
 | back right leg      | 1.00    | 1.01      | 
 | back right foot     | 1.00    | 0.95      | 
 
-Red part is smaller.
+Smaller part is red.
 
-Blue part is biger.
+Bigger part is blue.
