@@ -28,6 +28,4 @@ Bigger part is blue.
 | back right leg      | 1.00    | 1.01      | 
 | back right foot     | 1.00    | 0.95      | 
 
-・paper URL:
-
-https://ieeexplore.ieee.org/document/9945257
+・paper URL:(https://ieeexplore.ieee.org/document/9945257)
